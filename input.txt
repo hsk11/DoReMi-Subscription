@@ -1,0 +1,23 @@
+// COMMENTS CAN BE USED & ANY CASE WILL WORK
+
+
+
+USER CREATE harpal.singhkhl@gmail.com 1234567890
+
+// VERY IMPORTANT - LOGIN
+USER LOGIN harpal.singhkhl@gmail.com 1234567890
+
+// SUBSCRIPTION
+SUBSCRIPTION ADD MUSIC FREE
+SUBSCRIPTION CANCEL MUSIC FREE
+SUBSCRIPTION ADD video FREE
+SUBSCRIPTION ADD video FREE
+SUBSCRIPTION topup ten_devices
+
+SUBSCRIPTION get music
+clear
+// GET Reminders for active subscription
+SUBSCRIPTION reminders
+
+
+

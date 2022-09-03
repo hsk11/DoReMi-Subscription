@@ -1,0 +1,30 @@
+{
+  "name": "doremi",
+  "version": "1.0.0",
+  "main": "app.js",
+  "keywords": [
+    "doremi",
+    "cli",
+    "command line interface",
+    "subscription",
+    "subscription management",
+    "subscription service",
+    "subscription management service",
+    "subscription management system",
+    "cli login"
+  ],
+  "scripts": {
+    "start": "node app.js ./input.txt"
+  },
+  "author": "Harpal Singh (https://github.com/hsk11)",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hsk11/doremi.git"
+  },
+  "bugs": {
+    "url": "https://github.com/hsk11/doremi/issues"
+  },
+  "homepage": "https://github.com/hsk11/doremi#readme",
+  "description": ""
+}
